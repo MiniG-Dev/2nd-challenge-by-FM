@@ -81,6 +81,7 @@ ul.preparation-list {
     padding-inline-start: inherit;
     margin: 0;
     font-family: var(--font-family-outfit);
+    color: var(--Stone-600);
 }
 
 h3.preparation-title {
